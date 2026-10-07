@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Augustine123-cell
-- 👀 I’m interested in technology ...
-- 🌱 I’m currently learning AI development, Programing and Digital marketing ...
-- 💞️ I’m looking to collaborate on my project  ...
-- 📫 How to reach me call +2349169654124 ...
-- 😄 Pronouns: I'm a boy ...
-- ⚡ Fun fact: I'm also a cretive writer ...
+NAME      →  Austin
+IDENTITY  →  𝙳𝙴𝚅 𝙰𝚄𝚂𝚃𝙸𝙽
+ROLE      →  Developer • Creator • Learner
+MINDSET   →  Build. Learn. Experiment. Repeat.
+CURRENTLY →  AI • Node.js • Automation • Web
 
-<!---
-Augustine123-cell/Augustine123-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm using this profile to document what I build, what I learn, and the ideas I'm crazy enough to turn into projects.
+If you find something interesting here — fork it, study it, improve it, or build something completely different from it.
+Welcome to my corner of GitHub.
+— 𝙳𝙴𝚅 𝙰𝚄𝚂𝚃𝙸𝙽
+
+Gimme a call on +2348130300032
+
+Change is constant. So am I.
